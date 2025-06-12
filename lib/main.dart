@@ -45,7 +45,6 @@ class MyAppState extends ChangeNotifier {
   }
 }
 
-/// Tela principal com NavigationRail responsivo
 class NavigationHomePage extends StatefulWidget {
   const NavigationHomePage({super.key});
 
